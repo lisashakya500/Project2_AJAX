@@ -30,52 +30,44 @@ Hover effects
 Mobile-friendly design
 
 Self-Assessment
-Functionality: The app works correctly. Users can:
 
+Functionality: The app works correctly. Users can:
 Search TV shows
 Add/remove favorites
 Toggle dark mode
 View search history
 UI / Design
-
 The design is modern and clean. Cards, colors, and responsive layout make the app easy to use on different devices.
 
 Code Quality: The code is separated properly into:
-
 HTML
 CSS
 JavaScript
-
 Functions and variable names are meaningful and organized.
 
 Features: The app includes useful features such as:
-
 API integration using fetch()
 Favorites system
 Search history
 Dark/light mode
 Responsive layout
 Creativity
-
 I added extra features like:
 
-Responsive mobile layout
-Theme switching
-Favorites storage
+Responsive mobile layout,
+Theme switching,
+Favorites storage,
 Dynamic TV show cards
-
 These features make the project more interactive and user-friendly.
 
 Reflection:
-
 In this project, I learned how to build a complete web application using HTML, CSS, and JavaScript. I improved my understanding of API integration using fetch() and learned how to display dynamic data on a webpage.
-
 One important thing I learned was how to use localStorage to save user data like favorites and theme settings. This helped me understand how websites can remember user preferences even after refreshing the page.
-
 I also learned how to use JavaScript to dynamically create HTML elements using .map() and template literals. This made the website more interactive and automatic.
-
 Another important part was responsive web design. I learned how to use CSS Grid, Flexbox, and media queries to make the website work properly on mobile and desktop screens.
-
 I also faced some problems during development, especially with dark mode and file linking issues. Fixing these problems improved my debugging and problem-solving skills.
-
 Overall, this project helped me improve my practical web development skills and gave me more confidence in building responsive and interactive web applications.
+
+For Video Presentation following link can be followed:
+https://drive.google.com/file/d/12z2qQM3dp-MN0x4rcTMCtmTJTP-SsXtG/view?usp=drive_link
+
