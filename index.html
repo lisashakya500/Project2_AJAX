@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineScope Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- TOP BAR -->
+    <header class="topbar">
+
+        <h1 class="logo">CineScope</h1>
+
+        <div class="top-buttons">
+            <button id="showFavsBtn">❤️</button>
+            <button id="themeToggle">🌙</button>
+        </div>
+
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+
+        <!-- HERO -->
+        <section class="hero">
+
+            <h2>Find Your Next Binge</h2>
+            <p>Search TV shows, explore ratings, genres & save favorites.</p>
+
+            <div class="search-box">
+
+                <input type="text" id="userInput" placeholder="Search shows...">
+
+                <button id="fetchBtn">Search</button>
+                <button id="clearBtn" class="secondary">Clear</button>
+
+            </div>
+
+            <div id="historyPanel"></div>
+
+            <p id="status">Ready</p>
+
+        </section>
+
+        <!-- RESULTS -->
+        <main id="display" class="grid"></main>
+
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
